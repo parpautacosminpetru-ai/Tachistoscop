@@ -1,0 +1,6 @@
+Tachistoscop v0.1 — Build notes
+
+Acest proiect nu folosește AndroidX, CameraX, ML Kit sau alte biblioteci externe de runtime.
+Scopul este un build cât mai simplu și o aplicație complet offline.
+
+Pentru GitHub Actions folosește fișierul separat Tachistoscop_main.yml furnizat împreună cu ZIP-ul.
